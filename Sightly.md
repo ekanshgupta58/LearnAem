@@ -1,6 +1,6 @@
+I apologize for the oversight. Here’s the corrected Markdown content with consistent formatting:
 
 
-```markdown
 # AEM Sightly (HTL)
 
 ## What is AEM Sightly (HTL)?
