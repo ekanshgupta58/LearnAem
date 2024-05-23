@@ -1,4 +1,4 @@
-I apologize for the oversight. Here’s the corrected Markdown content with consistent formatting:
+
 
 
 # AEM Sightly (HTL)
