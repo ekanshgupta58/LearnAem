@@ -96,4 +96,4 @@ HTL uses special attributes and expressions within HTML tags to inject dynamic c
 Learning HTL involves a combination of understanding its syntax, practicing through projects, and staying updated with the latest best practices. Utilize the official Adobe documentation, online courses, community forums, and hands-on practice to become proficient in AEM HTL.
 ```
 
-You can copy this content into a `.md` file for use on GitHub or any other platform that supports Markdown formatting.
+
