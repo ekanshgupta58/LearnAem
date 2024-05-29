@@ -1,4 +1,4 @@
-
+ I have a doubt that why  the sling model is used to fetch the value of dialog boxes  if it can be done by properties.variable_name also in sightly? Is it because of performance related issue or some standards or any other reason?
 
 
 # AEM Sightly (HTL)
